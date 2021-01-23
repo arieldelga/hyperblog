@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f49a:
+# Hyperblog 💚
 Un blog increíble para el curso de Git y Github de Platzi.
 ## Cosas que aprendí en el curso
 - Creación de repositorios locales y remotos en GitHub.
